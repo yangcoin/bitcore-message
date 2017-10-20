@@ -20,7 +20,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/bitpay/bitcore-message.git"
+        "url": "https://github.com/bitchk-wallet/bitcore-message.git"
     },
     "dependencies": {
         "bitcore-lib": "https://github.com/bitchk-wallet/bitcore-lib.git#bitchk"
