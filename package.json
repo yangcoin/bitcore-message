@@ -23,7 +23,7 @@
         "url": "https://github.com/bitchk-wallet/bitcore-message.git"
     },
     "dependencies": {
-        "bitcore-lib": "https://github.com/bitchk-wallet/bitcore-lib.git#bitchk"
+        "bitcore-lib": "https://github.com/yangcoin/yangcore-lib.git"
     },
     "devDependencies": {
         "bitcore-build": "https://github.com/bitchk-wallet/bitcore-build.git",
